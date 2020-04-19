@@ -11,7 +11,7 @@ Using php-phantomjs client in laravel
 [php-phantomjs Documentation](http://jonnnnyw.github.io/php-phantomjs/)
 
 # Requirement
-* [laravel/framework ^6](https://github.com/laravel/laravel)
+* [laravel/framework ^7](https://github.com/laravel/laravel)
 * [jonnyw/php-phantomjs 4.*](https://github.com/jonnnnyw/php-phantomjs)
 
 ## Install
